@@ -1,0 +1,73 @@
+{
+    "name": "Urban Mapping",
+    "description": "Crafting commerce through customer information management, location intelligence, customer engagement, shipping, mailing & ecommerce. Customer Service @PBcares.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/613-urban-mapping.jpg",
+    "tags": [
+        "data",
+        "display",
+        "geography",
+        "have api",
+        "services",
+        "viewers",
+        "webhook implementations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/urban-mapping\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Urban Mapping",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/613-urban-mapping.jpg",
+            "humanURL": "http:\/\/developer.urbanmapping.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/urban-mapping-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/urban-mapping-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.urbanmapping.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.mailgun.net"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.mailgun.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/pitney-bowes"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/mailgun"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/urbanmapping"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/PitneyBowes"
+        },
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/documentation.mailgun.com\/en\/latest\/api-webhooks.html"
+        }
+    ]
+}
